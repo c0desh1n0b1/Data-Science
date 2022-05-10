@@ -4,7 +4,7 @@ Hi 👋 My name is Teddy John Kamau Mbiri
 Data Scientist
 --------------
 
-I've been learning to Machine Learning and Data Science Techniques since the summer of 2022, I am currently focusing on Python, Flask and Firebase for my final year project.
+I've been learning to Machine Learning and Data Science Techniques since the summer of 2021, I am currently focusing on Python, Flask and Firebase for my final year project.
 
 * 🌍  I'm based in London
 * 🧠  I'm learning Machine Learning techniques
